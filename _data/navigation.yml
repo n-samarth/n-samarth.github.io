@@ -1,18 +1,18 @@
 nav:
-  - title: "Services"
+  - title: "Objective"
     section: services
 
-  - title: "Portfolio"
+  - title: "Speakers"
     section: portfolio
-    
-  - title: "About"
+
+  - title: "Scedule"
     section: timeline
 
   - title: "Team"
     section: team
 
-  - title: "Contact"
+  - title: "Contact Us"
     section: contact
 
-  - title: "Theme Source"
-    url: https://github.com/raviriley/agency-jekyll-theme/
+  - title: "Register Now !!"
+    url: https://docs.google.com/forms/d/e/1FAIpQLScWyod8vNIc9a2mNSy4LTii1TXdlvoEXG2HERNhWg74df9ePg/viewform?usp=sf_link
