@@ -1,58 +1,59 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Next generation Security and Analytics for Mobile Assisted RemoTe Healthcare Webinar
+    text: N-SAMARTH
+    button: Register Now
+    buttonlink: "#objective"
 
 services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "Objective"
+    text: "Samsung Digital Academy Research lab has been established in 2020 to harness  research in the areas of  mobile healthcare, artificial intelligence and cyber security. The N-SAMARTH webinar is being organized to present expert technical talks from industry and academia to address the next generation challenges of scalable and sustainable digital healthcare for a healthcare habitat to reach remote masses in India. Areas of talks: health care management, wearable IoT devices, high speed 5G communication, AI for predictive health analytics and cyber security."
+    # title: "Presented By"
+    section: objective
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "[Delhi Technological University](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Delhi Technological University, formerly known as the Delhi College of Engineering is a state university in New Delhi, India."
+        icon: /assets/img/dtulogo.png #find more at https://fontawesome.com/icons
+      - title: "Department of Computer Science & Engineering"
+        desc: "Established in 1989, Computer Science and Engineering department has made astounding progress in last 26 years."
+        icon: /assets/img/cselogo.png
+      - title: "[Samsung](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "The Samsung Group is a South Korean multinational conglomerate headquartered in Samsung Town, Seoul"
+        icon: /assets/img/samsunglogo.png
 
 portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Keynote Speakers"
+    text: "Best the industry and academia has to offer"
     section: portfolio
-    closebutton: "Close Project"
-    
+    closebutton: "Close"
+
 
 timeline:
-    title: "About" 
-    text: "Lorem ipsum timeline"
+    title: "Schedule"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "Inauguration"
+        year: "January 12th, 2021"
+        desc: "<p>Dr. Divyashikha Sethia - Welcome of Guests </p> <p> Dr. Rajni Jindal - Welcome Address </p> <p> Prof. Yogesh Singh - Address by Hon'ble VC </p> <p> Dr. Divyashikha Sethia - Vote of Thanks </p>"
         image: assets/img/timeline/1.jpg
-        alt: 
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        alt:
+      - title: "Technical Session 1"
+        year: "January 12th, 2021"
+        desc: "<p>Prof. Huzur Saran - 5G Healthcare </p> <p> Dr. Rajiv Shorey - Health IoT Cybersecurity </p> <p> Mr. Manoj Sanker - Infant Care IoT </p>"
         image: assets/img/timeline/2.jpg
-        alt: 
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        alt:
+      - title: "Technical Session 2"
+        year: "January 13th, 2021"
+        desc: "<p>Brejesh Lall - IoT Healthcare Cybersecurity </p> <p> Prof. Kolin Paul - Healthcare Analytics </p> <p> Mr. Rajat Garg - Tele-Medicine </p>"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Technical Session 3"
+        year: "January 14th, 2021"
+        desc: "<p>Dr. Sriparna Saha - Health Analytics</p> <p>Ankur Sood - Healthcare </p> <p> Bappa Mondal - Mobile Security, Healthcare </p>"
         image: assets/img/timeline/4.jpg
-        alt: 
+        alt:
         # you can enforce the aligment
         align: right
     end: "Be Part <br> of Our <br> Story!"
@@ -62,33 +63,33 @@ about:
     text: "our story"
     section: about
 
-clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-    
+# clients:
+#     section: clients
+#     max-height: 100px
+#     horizontal-scrolling: "" #"yes/no"
+#     list:
+#       - title: "envato"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/envato.jpg
+#       - title: "designmodo"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/designmodo.jpg
+#       - title: "themeforest"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/themeforest.jpg
+#       - title: "Creative Market"
+#         url: https://github.com/raviriley/agency-jekyll-theme
+#         logo: assets/img/clients/creative-market.jpg
+
 team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Patrons and Coordinators"
+    # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Prof. Yogesh Singh"
+        role: "<h6>Cheif Patron </h6> Honourable Vice Chancellor, Delhi Technological University"
+        image: assets/img/speakers/HVC.jfif
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -96,9 +97,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "Dr. Rajni Jindal"
+        role: "<h6>Patron </h6> Head of Department, Department of Computer Science & Engineering, Delhi Technological University"
+        image: assets/img/speakers/HoD.jfif
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -106,9 +107,9 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Dr. Divyashikha Sethia"
+        role: "<h6>Coordinator </h6> Assistant Professor, Department of Computer Science & Engineering, Delhi Technological University"
+        image: assets/img/speakers/DrDivyaSethia.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -116,17 +117,37 @@ team:
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-          
+      - name: "Dr. Aruna Bhat"
+        role: "<h6>Co-Cordinator</h6> Associate Professor, Department of Computer Science & Engineering, Delhi Technological University"
+        image: assets/img/speakers/ArunaBhat.png
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Ms. Minni Jain"
+        role: "<h6>Co-Cordinator</h6> Assistant Professor, Department of Computer Science & Engineering, Delhi Technological University"
+        image: assets/img/speakers/MsMinniJain.png
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Have a question?"
+    text: "Email at  or call 8053158264"
     section: contact
-    
+
 footer:
     legal: "Privacy Policy"
     social:
       - url: https://twitter.com
-        icon: "fab fa-twitter"  
+        icon: "fab fa-twitter"
       - url: https://facebook.com
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com

@@ -1,14 +1,15 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Prof. Huzur Saran
+  title: Prof. Kolin Paul
   subtitle: Department of Computer Science & Engineering, IIT Delhi
-  thumbnail: assets/img/speakers/ProfHuzurSaran.png
+  thumbnail: assets/img/speakers/kolinpaul.png
 
 #what displays when the item is clicked:
-title: Prof. Huzur Saran
+title: Prof. Kolin Paul
 subtitle: Department of Computer Science & Engineering, IIT Delhi
-image: assets/img/speakers/ProfHuzurSaran.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/speakers/kolinpaul.png
 alt: image alt text
 
 ---
-# 5G Healthcare
+
+## Healthcare Analytics
