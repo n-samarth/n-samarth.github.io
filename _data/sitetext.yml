@@ -16,9 +16,9 @@ services:
       - title: "[Department of Computer Science & Engineering](/about)"
         desc: ""
         icon: /assets/img/cselogo.png
-      - title: "[Samsung Digital Academy Research Lab](https://www.samsung.com/in/)"
-        desc: ""
-        icon: /assets/img/samsunglogo.png
+      # - title: "[Samsung Digital Academy Research Lab](https://www.samsung.com/in/)"
+      #   desc: ""
+      #   icon: /assets/img/samsunglogo.png
 
 portfolio:
     title: "Keynote Speakers"
@@ -92,50 +92,50 @@ team:
         role: "<h6>Cheif Patron </h6> Honourable Vice Chancellor, Delhi Technological University"
         image: assets/img/speakers/HVC.jfif
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dr. Rajni Jindal"
         role: "<h6>Patron </h6> Head of Department, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/HoD.jfif
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dr. Divyashikha Sethia"
         role: "<h6>Coordinator </h6> Assistant Professor, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/DrDivyaSethia.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Dr. Aruna Bhat"
         role: "<h6>Co-Cordinator</h6> Associate Professor, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/ArunaBhat.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Ms. Minni Jain"
         role: "<h6>Co-Cordinator</h6> Assistant Professor, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/MsMinniJain.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
 
