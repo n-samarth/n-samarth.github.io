@@ -57,11 +57,22 @@
         <br><br><br>
         <hr>
         <br><br><br>
-        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.services.title | default: "Services" }}</h2>
+        <img src="assets/img/nslogo.png" alt="NSAMARTH Logo" style="float:left; width: 20%; padding: 20px; margin: 0px 20px 0px 20px">
+        <h2 class="section-heading text-uppercase text-left">{{ site.data.sitetext.services.title | default: "Services" }}</h2>
         {% if site.data.sitetext.services.text %}
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext.services.text }}</h3>
+        <h3 class="section-subheading text-muted text-justify">{{ site.data.sitetext.services.text }}</h3>
         {% endif %}
+        <br>
+        <hr>
+        <br>
+        <br>
+
+        <h2 class="section-heading text-uppercase">Presented By</h2>
+        <br>
+
       </div>
+      <br>
+
     </div>
     <script type="text/javascript">
       function getTimeRemaining(endtime) {
@@ -106,7 +117,6 @@
       var deadline = "1/12/2021 15:00:00";
       initializeClock('clockdiv', deadline);
     </script>
-
 
 
     <div class="row text-center">

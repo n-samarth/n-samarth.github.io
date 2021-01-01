@@ -3,6 +3,8 @@ layout: page
 title: Schedule
 background: grey
 ---
+![](/assets/img/nslogo2.png)
+
 # Schedule
 
 ------------
