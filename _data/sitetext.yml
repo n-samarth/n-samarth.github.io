@@ -91,53 +91,58 @@ team:
       - name: "Prof. Yogesh Singh"
         role: "<h6>Cheif Patron </h6> Honourable Vice Chancellor, Delhi Technological University"
         image: assets/img/speakers/HVC.jfif
+        url: http://dtu.ac.in/Web/Administrations/Vice-Chancellor.php
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Dr. Rajni Jindal"
         role: "<h6>Patron </h6> Head of Department, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/HoD.jfif
+        url: https://www.linkedin.com/in/rajnijindal/
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/rajnijindal/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/rajnijindal/
+          #   icon: fab fa-linkedin-in
       - name: "Dr. Divyashikha Sethia"
         role: "<h6>Coordinator </h6> Assistant Professor, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/DrDivyaSethia.png
+        url: https://www.linkedin.com/in/divyasethia/
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/divyasethia/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/divyasethia/
+          #   icon: fab fa-linkedin-in
       - name: "Dr. Aruna Bhat"
         role: "<h6>Co-Cordinator</h6> Associate Professor, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/ArunaBhat.png
+        url: http://www.dtu.ac.in/Web/Departments/CSE/faculty/arunabhat.php
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          # - url: https://linkedin.com
+          #   icon: fab fa-linkedin-in
       - name: "Ms. Minni Jain"
         role: "<h6>Co-Cordinator</h6> Assistant Professor, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/MsMinniJain.png
+        url: https://www.linkedin.com/in/minni-jain-45b221164/
         social:
           # - url: https://twitter.com
           #   icon: fab fa-twitter
           # - url: https://facebook.com
           #   icon: fab fa-facebook-f
-          - url: https://www.linkedin.com/in/minni-jain-45b221164/
-            icon: fab fa-linkedin-in
+          # - url: https://www.linkedin.com/in/minni-jain-45b221164/
+          #   icon: fab fa-linkedin-in
 
 contact:
     title: "Have a question?"
