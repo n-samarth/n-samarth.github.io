@@ -1,38 +1,46 @@
 ---
 layout: page
-title: Privacy Policy
+title: Schedule
 background: grey
 ---
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase">Privacy Policy</h2>
-</div>
+# Schedule
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit {{ site.title }} (the “Site”).
+------------
+## Inaugration
+####  12th January, 2021
 
-**PERSONAL INFORMATION WE COLLECT**
+|Time | Speaker  | Designation  |  Agenda/Topic  |
+| ------------ | ------------ | ------------ | ------------ |
+| 3:00 - 3:02 PM  | Dr. Divyashika Sethia | Assistant Professor, Computer Science and Engineering, DTU | Welcome of Guests  |
+| 3:02 - 3:12 PM  | Dr. Rajni Jindal | Head of Department, Computer Science and Engineering, DTU  | Welcome Address  |
+| 3:12 - 3:27 PM  | Prof. Yogesh Singh | Vice Chancellor, DTU  | Address by Hon' VC  |
+| 3:30 - 3:32 PM  | Dr. Divyashika Sethia | Assistant Professor, Computer Science and Engineering, DTU  | Vote of Thanks  |
 
-{% if site.analytics.google %}
 
-Automatically Collected (Google Analytics):
+## Technical Session 1
+####  12th January, 2021
 
-When you visit the Site, we automatically receive information about your device from your browser, such as your IP address. As you browse the Site, we also collect information about how you interact with the Site. We refer to this automatically-collected information as “Device Information”.
+|Time | Speaker  | Designation  |  Agenda/Topic  |
+| ------------ | ------------ | ------------ | ------------ |
+| 3:45 - 4:30 PM  | Prof. Huzur Saran |Department of Computer Science & Engineering, IIT  Delhi | 5G Healthcare |
+| 4:30 - 5:15 PM  | Dr. Rajiv Shorey | CEO UQIDAR | Health IoT CyberSecurity  |
+| 5:15 - 6:00 PM  | Mr. Manoj Sanker | Cofounder NemoCare  | Infant Care IoT  |
 
-We collect Device Information using cookies. “Cookies” are data files that are placed on your device. For more information about cookies and how to disable them, visit http://www.allaboutcookies.org.
+## Technical Session 2
+####  13th January, 2021
 
-We do this using Google Analytics: <https://www.google.com/intl/en/policies/privacy/>.
+|Time | Speaker  | Designation  |  Agenda/Topic  |
+| ------------ | ------------ | ------------ | ------------ |
+| 3:00 - 3:45 PM  | Prof. Brejesh Lall | HoD Bharti School, IIT Delhi| IoT Healthcare Cybersecurity |
+| 3:45 - 4:30 PM  | Prof. Kolin Paul | Dept. of CSE, IIT Delhi | Healthcare Analytics  |
+| 4:30 - 5:15 PM  | Mr. Rajat Garg | CEO MyUpchar  | TeleMedicine |
 
-You can opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>.
 
-{% else %}
+## Technical Session 3
+####  14th January, 2021
 
-We do not collect any data about you or use any cookies.
-
-{% endif %}
-
-**CHANGES**
-
-We may update this privacy policy from time to time for personal, operational, legal, or regulatory reasons.
-
-**CONTACT US**
-
-For more information about our privacy practices or if you have questions, please contact us by email at <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
+|Time | Speaker  | Designation  |  Agenda/Topic  |
+| ------------ | ------------ | ------------ | ------------ |
+| 3:00 - 3:45 PM  | Dr. Sriparna Saha | IIT Patna| Health Analytics |
+| 3:45 - 4:30 PM  | Mr. Ankur Sood | Director Samsung | Healthcare  |
+| 4:30 - 5:15 PM  | Mr. Bappa Mondal | Samsung Technical Team Lead | Mobile Security - Healthcare |
