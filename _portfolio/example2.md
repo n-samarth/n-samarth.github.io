@@ -3,7 +3,7 @@ caption: #what displays in the portfolio grid:
   title: Manoj Sanker
   subtitle: Cofounder Nemocare
   thumbnail: assets/img/speakers/ManojSankerNemoCare.png
-
+  link: http://linkedin.com/in/manoj-sanker
 #what displays when the item is clicked:
 title: Manoj Sanker
 subtitle: Cofounder Nemocare

@@ -3,7 +3,7 @@ caption: #what displays in the portfolio grid:
   title: Prof. Kolin Paul
   subtitle: Department of Computer Science & Engineering, IIT Delhi
   thumbnail: assets/img/speakers/kolinpaul.png
-
+  link: http://linkedin.com/in/kolin-paul-597a7a4
 #what displays when the item is clicked:
 title: Prof. Kolin Paul
 subtitle: Department of Computer Science & Engineering, IIT Delhi

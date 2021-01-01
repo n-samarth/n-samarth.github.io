@@ -3,7 +3,7 @@ caption: #what displays in the portfolio grid:
   title: Rajat Garg
   subtitle: CEO MyUpchar
   thumbnail: assets/img/speakers/rajatgargmyupchaar.png
-
+  link: http://linkedin.com/in/rajatgarg
 #what displays when the item is clicked:
 title: Rajat Garg
 subtitle: CEO MyUpchar

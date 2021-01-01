@@ -1,5 +1,5 @@
 header:
-    title: Next generation Security and Analytics for Mobile Assisted RemoTe Healthcare Webinar
+    title: Next generation Security and Analytics for Mobile Assisted RemoTe Healthcare (N-SAMARTH) Webinar
     text: N-SAMARTH
     button: Register Now
     buttonlink: "https://docs.google.com/forms/d/e/1FAIpQLScWyod8vNIc9a2mNSy4LTii1TXdlvoEXG2HERNhWg74df9ePg/viewform?usp=sf_link"
@@ -10,49 +10,50 @@ services:
     # title: "Presented By"
     section: objective
     list:
-      - title: "[Delhi Technological University](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Delhi Technological University, formerly known as the Delhi College of Engineering is a state university in New Delhi, India."
+      - title: "[Delhi Technological University](/about)"
+        desc: ""
         icon: /assets/img/dtulogo.png #find more at https://fontawesome.com/icons
-      - title: "Department of Computer Science & Engineering"
-        desc: "Established in 1989, Computer Science and Engineering department has made astounding progress in last 26 years."
+      - title: "[Department of Computer Science & Engineering](/about)"
+        desc: ""
         icon: /assets/img/cselogo.png
-      - title: "[Samsung](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "The Samsung Group is a South Korean multinational conglomerate headquartered in Samsung Town, Seoul"
+      - title: "[Samsung Digital Academy Research Lab](https://www.samsung.com/in/)"
+        desc: ""
         icon: /assets/img/samsunglogo.png
 
 portfolio:
     title: "Keynote Speakers"
-    text: "Best the industry and academia has to offer"
+    text: ""
     section: portfolio
     closebutton: "Close"
 
 
 timeline:
     title: "Schedule"
-    text: ""
+    text: "Click <strong> Here </strong> for Detailed Schedule"
     section: timeline
+    link: /schedule
     # left is the default
     #start_align: "left"
     events:
       - title: "Inauguration"
-        year: "January 12th, 2021"
+        year: "January 12th, 2021, 15:00"
         desc: "<p>Dr. Divyashikha Sethia - Welcome of Guests </p> <p> Dr. Rajni Jindal - Welcome Address </p> <p> Prof. Yogesh Singh - Address by Hon'ble VC </p> <p> Dr. Divyashikha Sethia - Vote of Thanks </p>"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/inaug.jpg
         alt:
       - title: "Technical Session 1"
-        year: "January 12th, 2021"
+        year: "January 12th, 2021, 15:45"
         desc: "<p>Prof. Huzur Saran - 5G Healthcare </p> <p> Dr. Rajiv Shorey - Health IoT Cybersecurity </p> <p> Mr. Manoj Sanker - Infant Care IoT </p>"
-        image: assets/img/timeline/2.jpg
+        image: assets/img/day1.jpg
         alt:
       - title: "Technical Session 2"
-        year: "January 13th, 2021"
+        year: "January 13th, 2021, 15:00"
         desc: "<p>Brejesh Lall - IoT Healthcare Cybersecurity </p> <p> Prof. Kolin Paul - Healthcare Analytics </p> <p> Mr. Rajat Garg - Tele-Medicine </p>"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/day2.jpg
         alt: image alt text
       - title: "Technical Session 3"
-        year: "January 14th, 2021"
+        year: "January 14th, 2021, 15:00"
         desc: "<p>Dr. Sriparna Saha - Health Analytics</p> <p>Ankur Sood - Healthcare </p> <p> Bappa Mondal - Mobile Security, Healthcare </p>"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/day3.jpg
         alt:
         # you can enforce the aligment
         align: right
@@ -82,8 +83,8 @@ about:
 #         logo: assets/img/clients/creative-market.jpg
 
 team:
-    title: "OUR AMAZING TEAM"
-    text: "Patrons and Coordinators"
+    title: "Organizing Team"
+    text: ""
     # subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
