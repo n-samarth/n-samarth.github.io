@@ -1,14 +1,14 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Prof. Huzur Saran
-  subtitle: Department of Computer Science & Engineering, IIT Delhi
-  thumbnail: assets/img/speakers/ProfHuzurSaran.png
-  link: http://linkedin.com/in/huzur-saran-b10a13
+  title: Dr. Rajiv Shorey
+  subtitle: CEO UQUIDAR
+  thumbnail: assets/img/speakers/DrRajivShoreyTCS.png
+  link: http://linkedin.com/in/rajeev-shorey-8943906
 #what displays when the item is clicked:
-title: Prof. Huzur Saran
-subtitle: Department of Computer Science & Engineering, IIT Delhi
-image: assets/img/speakers/ProfHuzurSaran.png #main image, can be a link or a file in assets/img/portfolio
+title: Dr. Rajeiv Shorey
+subtitle: CEO UQUIDAR
+image: assets/img/speakers/DrRajivShoreyTCS.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-# 5G Healthcare
+## Health IOT Cybersecurity

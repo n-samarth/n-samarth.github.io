@@ -42,7 +42,7 @@ timeline:
         alt:
       - title: "Technical Session 1"
         year: "January 12th, 2021, 15:45"
-        desc: "<p>Prof. Huzur Saran - 5G Healthcare </p> <p> Dr. Rajiv Shorey - Health IoT Cybersecurity </p> <p> Mr. Manoj Sanker - Infant Care IoT </p>"
+        desc: "<p> Dr. Rajiv Shorey - Health IoT Cybersecurity </p> <p>Prof. Huzur Saran - 5G Healthcare </p>  <p> Mr. Manoj Sanker - Infant Care IoT </p>"
         image: assets/img/day1.jpg
         alt:
       - title: "Technical Session 2"
