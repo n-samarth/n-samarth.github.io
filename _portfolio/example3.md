@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Prof. Brejesh Lall
-  subtitle: HoD Bharti School, IIT Delhi
+  subtitle: Former HoD Bharti School, IIT Delhi
   thumbnail: assets/img/speakers/ProfBrijeshLal.png
   link: http://linkedin.com/in/brejesh-lall-b6787215
 #what displays when the item is clicked:
