@@ -37,7 +37,7 @@ timeline:
     events:
       - title: "Inauguration"
         year: "January 12th, 2021, 15:00"
-        desc: "<p>Dr. Divyashikha Sethia - Welcome of Guests </p> <p> Dr. Rajni Jindal - Welcome Address </p> <p> Prof. Yogesh Singh - Address by Hon'ble VC </p> <p> Dr. Divyashikha Sethia - Vote of Thanks </p>"
+        desc: "<p>Dr. Divyashikha Sethia - Welcome of Guests </p> <p> Prof. Rajni Jindal - Welcome Address </p> <p> Prof. Yogesh Singh - Address by Hon'ble VC </p> <p> Dr. Divyashikha Sethia - Vote of Thanks </p>"
         image: assets/img/inaug.jpg
         alt:
       - title: "Technical Session 1"
@@ -99,7 +99,7 @@ team:
           #   icon: fab fa-facebook-f
           # - url: https://linkedin.com
           #   icon: fab fa-linkedin-in
-      - name: "Dr. Rajni Jindal"
+      - name: "Prof. Rajni Jindal"
         role: "<h6>Patron </h6> Head of Department, Department of Computer Science & Engineering, Delhi Technological University"
         image: assets/img/speakers/HoD.jfif
         url: https://www.linkedin.com/in/rajnijindal/
