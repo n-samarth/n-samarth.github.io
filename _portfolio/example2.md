@@ -15,16 +15,16 @@ alt: image alt text
 
 ##### Opportunities in the field of Healthcare entrepreneurship - the highways to race on  and  speed breakers to look out for
 
-<div class="accordion text-left" id="accordionExample">
+<div class="accordion text-left" id="accordionExample2">
   <div class="card">
     <div class="card-header" id="headingTwo">
       <h2 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
         Abstract
         </button>
       </h2>
     </div>
-    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+    <div id="collapseFour" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
         I will be sharing opportunities available and trends  in medtech entrepreneurship space and as a career option .I will touch a little upon my journey leveraging deep tech like IoT and AI/ML ; and learnings-things to keep in mind for anyone keen to take on the journey and pitfalls to be aware of .I will also  be sharing some  case studies on successful entrepreneurs who had a base degree in  Engineering,some motivation and opportunities available to students and faculty alike,   and some  practical applications of subjects studied as coursework.
       </div>
@@ -33,12 +33,12 @@ alt: image alt text
   <div class="card">
     <div class="card-header" id="headingThree">
       <h2 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#CollapseFive" aria-expanded="false" aria-controls="CollapseFive">
           About the Speaker
         </button>
       </h2>
     </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+    <div id="CollapseFive" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
       He is a budding entrepreneur working
   in the healthcare and med-tech space.
