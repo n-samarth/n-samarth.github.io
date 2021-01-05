@@ -14,9 +14,11 @@ background: grey
 |Time | Speaker  | Designation  |  Agenda/Topic  |
 | ------------ | ------------ | ------------ | ------------ |
 | 3:00 - 3:02 PM  | Dr. Divyashika Sethia | Assistant Professor, Computer Science and Engineering, DTU | Welcome of Guests  |
-| 3:02 - 3:12 PM  | Prof. Rajni Jindal | Head of Department, Computer Science and Engineering, DTU  | Welcome Address  |
-| 3:12 - 3:27 PM  | Prof. Yogesh Singh | Vice Chancellor, DTU  | Address by Hon' VC  |
-| 3:30 - 3:32 PM  | Dr. Divyashika Sethia | Assistant Professor, Computer Science and Engineering, DTU  | Vote of Thanks  |
+| 3:02 - 3:07 PM  | Prof. Rajni Jindal | Head of Department, Computer Science and Engineering, DTU  | Welcome Address  |
+| 3:07 - 3:22 PM  | Prof. Yogesh Singh | Vice Chancellor, DTU  | Address by Hon' VC  |
+| 3:22 - 3:27 PM  | Prof. Huzur Saran | Department of Computer Science & Engineering, IIT  Delhi  | Welcome Address  |
+| 3:27 - 3:30 PM  | Video of the Lab  |
+| 3:30 - 3:32 PM  | Dr. Aruna Bhat and Ms Minni Jain | Assistant Professor, Computer Science and Engineering, DTU  | Vote of Thanks  |
 
 
 ## Technical Session 1
