@@ -26,7 +26,19 @@ alt: image alt text
     </div>
     <div id="CollapseSeven" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-        Biological networks have become more widely studied as there is a high rise of interest for in-depth investigation of biological systems and mechanisms for metabolism and regulation. Among the various biological networks, protein-protein interaction (PPI) networks play crucial roles in the execution of various cellular processes and form the basis of biological mechanisms. An in-depth exploration of protein-protein interactions (PPI) is essential to understand metabolism in addition to the regulations of biological processes.  It has been found in the literature that the use of disease-gene association information from the protein interaction network leads to higher accuracy in informative gene selection, improving gene clustering, and also improving the prediction of the protein interaction from the biomedical text. Although protein complexes play a vital role in identifying the molecular mechanism of a cell, it is unlikely that it will reveal the propensity of disease genes from such analysis due to incomplete and noisy PPI data. In this regard, data integration of multiple omics data with protein interaction networks has become a promising approach for improving any specific task of the biomedical domain. In this talk, I will discuss how the information about the protein interaction information can help in solving various popular biomedical problems.   
+        Biological networks have become more widely studied as there is a high rise of interest for in-depth investigation of biological systems and mechanisms for metabolism and regulation. Among the various biological networks, protein-protein interaction (PPI) networks play crucial roles in the execution of various cellular processes and form the basis of biological mechanisms. An in-depth exploration￼
+
+
+Lauren Cox
+Creative Director
+
+￼
+
+
+Jessie Barnett
+UI/UX Designer
+
+￼ of protein-protein interactions (PPI) is essential to understand metabolism in addition to the regulations of biological processes.  It has been found in the literature that the use of disease-gene association information from the protein interaction network leads to higher accuracy in informative gene selection, improving gene clustering, and also improving the prediction of the protein interaction from the biomedical text. Although protein complexes play a vital role in identifying the molecular mechanism of a cell, it is unlikely that it will reveal the propensity of disease genes from such analysis due to incomplete and noisy PPI data. In this regard, data integration of multiple omics data with protein interaction networks has become a promising approach for improving any specific task of the biomedical domain. In this talk, I will discuss how the information about the protein interaction information can help in solving various popular biomedical problems.   
       </div>
     </div>
   </div>
