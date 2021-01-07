@@ -32,4 +32,18 @@ alt: image alt text
     </div>
   </div>
 
+  <div class="card">
+    <div class="card-header" id="headingThree">
+      <h2 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#Collapseeight" aria-expanded="false" aria-controls="Collapseeight">
+          About the Speaker
+        </button>
+      </h2>
+    </div>
+    <div id="Collapseeight" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
+    Kolin Paul is Microsoft Chair Professor in the Department of Computer Science and Engineering at IIT Delhi India. He has previously worked at Colorado State University, IBM Software Labs and the University of Bristol, UK. He has also held a Visiting Position at KTH, Stockholm. His research interests are in understanding high performance architectures and compilation systems. In particular he works in the area of Adaptive/Reconfigurable Computing trying to understand its use and implications in embedded systems. He is also involved in the design of systems for affordable healthcare with emphasis on applications suitable for the Visually Challenged.         </div>
+    </div>
+  </div>
+
 </div>
