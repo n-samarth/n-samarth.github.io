@@ -26,9 +26,9 @@ background: grey
 
 |Time | Speaker  | Designation  |  Agenda/Topic  |
 | ------------ | ------------ | ------------ | ------------ |
-| 3:45 - 4:30 PM  | Dr. Rajiv Shorey | CEO UQIDAR | Health IoT CyberSecurity  |
-| 4:30 - 5:15 PM  | Prof. Huzur Saran |Department of Computer Science & Engineering, IIT  Delhi | 5G Healthcare |
-| 5:15 - 6:00 PM  | Mr. Manoj Sanker | Cofounder NemoCare  | Infant Care IoT  |
+| 3:30 - 4:15 PM  | Dr. Rajiv Shorey | CEO UQIDAR | Health IoT CyberSecurity  |
+| 4:15 - 5:00 PM  | Prof. Huzur Saran |Department of Computer Science & Engineering, IIT  Delhi | 5G Healthcare |
+| 5:00 - 5:45 PM  | Mr. Manoj Sanker | Cofounder NemoCare  | Infant Care IoT  |
 
 ## Technical Session 2
 ####  13th January, 2021
