@@ -18,7 +18,7 @@ background: grey
 | 3:07 - 3:22 PM  | Prof. Yogesh Singh | Vice Chancellor, DTU  | Address by Hon' VC  |
 | 3:22 - 3:27 PM  | Prof. Huzur Saran | Department of Computer Science & Engineering, IIT  Delhi  | Address  |
 | 3:27 - 3:30 PM  | Video of the Lab  |
-| 3:30 - 3:32 PM  | Dr. Aruna Bhat and Ms Minni Jain | Assistant Professor, Computer Science and Engineering, DTU  | Vote of Thanks  |
+| 3:30 - 3:32 PM  | Dr. Aruna Bha| | Assistant Professor, Computer Science and Engineering, DTU  | Vote of Thanks  |
 
 
 
