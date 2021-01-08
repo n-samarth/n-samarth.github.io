@@ -37,7 +37,7 @@ timeline:
     events:
       - title: "Inauguration"
         year: "January 12th, 2021, 15:00"
-        desc: "<p>Dr. Divyashikha Sethia, Assistant Professor, Department of CSE, DTU - Welcome of Guests </p> <p> Prof. Rajni Jindal, HoD, Department of CSE, DTU - Welcome Address </p> <p> Prof. Yogesh Singh, Vice Chancellor, DTU - Address by Hon'ble VC </p> <p> Prof. Huzur Saran, Former HoD Department of CSE, IIT Delhi - Welcome Address </p> <p> Dr. Aruna Bhat, Associate Professor, Department of CSE, DTU and Ms Minni Jain, Assistant Professor, Department of CSE, DTU - Vote of Thanks </p>"
+        desc: "<p>Dr. Divyashikha Sethia, Assistant Professor, Department of CSE, DTU - Welcome of Guests </p> <p> Prof. Rajni Jindal, HoD, Department of CSE, DTU - Welcome Address </p> <p> Prof. Yogesh Singh, Vice Chancellor, DTU - Address by Hon'ble VC </p> <p> Prof. Huzur Saran, Former HoD Department of CSE, IIT Delhi - Address </p> <p> Dr. Aruna Bhat, Associate Professor, Department of CSE, DTU - Vote of Thanks </p>"
         image: assets/img/inaug.jpg
         alt:
       - title: "Technical Session 1"
