@@ -11,7 +11,7 @@ image: assets/img/speakers/rajatgargmyupchaar.png
 alt: image alt text
 
 ---
-###Topic of the Talk
+### Topic of the Talk
 ##### Opportunities in Telemedicine for Tech Entrepreneurs
 
 <div class="accordion text-left" id="accordionExample4">
