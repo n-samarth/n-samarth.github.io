@@ -21,6 +21,7 @@ background: grey
 | 3:30 - 3:32 PM  | Dr. Aruna Bhat and Ms Minni Jain | Assistant Professor, Computer Science and Engineering, DTU  | Vote of Thanks  |
 
 
+
 ## Technical Session 1
 ####  12th January, 2021
 
