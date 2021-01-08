@@ -41,7 +41,7 @@ alt: image alt text
     </div>
     <div id="Collapseeight" class="collapse" aria-labelledby="headingaks2" data-parent="#accordionExample">
       <div class="card-body">
-      Working on security domain for past 10 years. Having interest in HW security, Homomorphic encryption and post quantum cryptography.
+      Bappa Mondal is working on security domain for past 10 years. Having interest in HW security, Homomorphic encryption and post quantum cryptography.
       </div>
     </div>
   </div>

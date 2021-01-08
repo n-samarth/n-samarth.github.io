@@ -46,7 +46,7 @@ alt: image alt text
     </div>
     <div id="CollapseFive" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-      He is a budding entrepreneur working
+      Prof. Brejesh Lall is a budding entrepreneur working
   in the healthcare and med-tech space.
   His interests span the areas of smart
   wearables ,internet of things

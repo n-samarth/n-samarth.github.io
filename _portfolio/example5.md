@@ -39,7 +39,7 @@ With the pandemic, focus has shifted on telemedicine as a solution to provide he
     </div>
     <div id="Collapseeight" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-      Rajat is a serial entrepreneur having founded companies
+      Rajat Garg is an alumnus of Department of CSE, DTU 2002 batch. Rajat is a serial entrepreneur having founded companies
       like Shimply.com and SocialAppsHQ prior to starting
       myUpchar.com, India’s biggest and the single largest portal
       providing credible information and creating health
