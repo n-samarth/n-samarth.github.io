@@ -1,12 +1,12 @@
 ---
 caption: #what displays in the portfolio grid:
   title: Dr. Rajiv Shorey
-  subtitle: CEO UQUIDAR
+  subtitle: CEO, University of Queensland - IIT Delhi Academy of Research (UQIDAR)
   thumbnail: assets/img/speakers/DrRajivShoreyTCS.png
   link: http://linkedin.com/in/rajeev-shorey-8943906
 #what displays when the item is clicked:
 title: Dr. Rajeiv Shorey
-subtitle: CEO UQUIDAR
+subtitle: CEO, University of Queensland - IIT Delhi Academy of Research (UQIDAR)
 image: assets/img/speakers/DrRajivShoreyTCS.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
