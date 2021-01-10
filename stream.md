@@ -13,4 +13,4 @@ background: grey
 
 
 
-<iframe src="https://embed.restream.io/player/index.html?token=9a7611eff18a7e2599959a090e2104f0" width="960" height="576" frameborder="0" allowfullscreen></iframe><p>Powered by <a href="https://restream.io">Restream.io</a></p>
+<iframe src="https://embed.restream.io/player/index.html?token=9a7611eff18a7e2599959a090e2104f0" width="960" height="576" frameborder="0" allowfullscreen></iframe>
