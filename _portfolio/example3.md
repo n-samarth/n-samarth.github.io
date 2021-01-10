@@ -46,23 +46,6 @@ alt: image alt text
     </div>
     <div id="CollapseFive" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-      Prof. Brejesh Lall is a budding entrepreneur working
-  in the healthcare and med-tech space.
-  His interests span the areas of smart
-  wearables ,internet of things
-  combined with machine learning and
-  user experience design.
-  He has published two international
-  journal papers and has two patents
-  filed
-  He looks forward to disrupt the
-  healthcare industry and gain exposure
-  through innovations and product
-  development.
-  He aspire to become a product leader
-  and is a staunch practitioner of
-  design thinking.
-  <br> <br>
   Prof. Brejesh Lall is the Professor in the Department of Electrical Engineering in Indian Institute
   of Technology Delhi (IITD). His areas of interest include Signal and Image Analysis, Computer
   Vision, Multimedia Systems, Multi scale Modelling of Stochastic Processing Wide-sense,
