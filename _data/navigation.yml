@@ -11,11 +11,11 @@ nav:
   - title: "Team"
     section: team
 
-  - title: "Contact Us"
-    section: contact
-
   - title: "About Us"
     url: "/about"
+
+  - title: "Youtube Stream"
+    url: "/stream"
 
   - title: "Register Now !!"
     url: https://docs.google.com/forms/d/e/1FAIpQLScWyod8vNIc9a2mNSy4LTii1TXdlvoEXG2HERNhWg74df9ePg/viewform?usp=sf_link
