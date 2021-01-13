@@ -28,7 +28,7 @@ $(function() {
 	dataType: "json",
         data: {
           name: name,
-          phone: phone,
+          speaker: phone,
           email: email,
           message: message
         },
