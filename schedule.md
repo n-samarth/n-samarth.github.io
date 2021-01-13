@@ -37,7 +37,7 @@ background: grey
 |Time | Speaker  | Designation  |  Agenda/Topic  |
 | ------------ | ------------ | ------------ | ------------ |
 | 3:00 - 3:45 PM  | Prof. Brejesh Lall | Former HoD Bharti School, IIT Delhi| IoT Healthcare Cybersecurity |
-| 3:45 - 4:30 PM  | Prof. Kolin Paul | Dept. of CSE, IIT Delhi | Healthcare  |
+| 3:45 - 4:30 PM  | Prof. Kolin Paul | Dept. of CSE, IIT Delhi | Federated Learning for Privacy for IoT Healthcare  |
 | 4:30 - 5:15 PM  | Mr. Rajat Garg | CEO MyUpchar  | TeleMedicine |
 
 

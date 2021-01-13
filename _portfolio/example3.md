@@ -13,7 +13,7 @@ alt: image alt text
 ---
 ### Topic of the Talk
 
-##### IoT Healthcare Cybersecurity
+##### Federated Learning for Privacy for IoT Healthcare
 
 <div class="accordion text-left" id="accordionExample2">
   <div class="card">
